@@ -1,6 +1,10 @@
 ## React-JS and Spring Boot project - Book Management
 #### ( Front End: ReactJS & Backend : Spring Boot-restful service)
 
+Features : 
+1. ReactJS Routing
+2. URL authorization
+
 #### Project Screenshots :
  
  1. Login Screen :
