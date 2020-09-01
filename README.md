@@ -1,9 +1,21 @@
 ## React-JS and Spring Boot project - Book Management
 #### ( Front End: ReactJS & Backend : Spring Boot-restful service)
 
-Features : 
+**Features :** 
+
+Front End - ReactJS
 1. ReactJS Routing
 2. URL authorization
+3. State management
+4. REST call using **Axios** (GET,PUT,DELETE,POST requests)
+5. Forms using **Formik**
+6. JWT token (TODO)
+
+Backend :
+1. Spring boot - restful services
+2. JPA (with H2 database)
+3. JWT token (TODO)
+
 
 #### Project Screenshots :
  
